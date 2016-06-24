@@ -1,0 +1,15 @@
+{
+  "name": "ReactDjango",
+  "scripts": {
+  },
+  "env": {
+  },
+  "formation": {
+  },
+  "addons": [
+
+  ],
+  "buildpacks": [
+
+  ]
+}
